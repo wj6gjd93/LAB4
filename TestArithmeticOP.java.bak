@@ -7,7 +7,6 @@ public class TestArithmeticOP {
 	public static void main(String[] args) {
 		int num1 = 5, num2 = 2;
 		double numD = 2.0;
-		String str = "Hello World";
 		System.out.println(num1 + num2);
 		System.out.println(num1 - num2);
 		System.out.println(num1 * num2 * numD);
@@ -21,7 +20,6 @@ public class TestArithmeticOP {
 		int num3 = 10;
 		String s2 = "點";
 		System.out.println(s1 + num3 + s2);
-		System.out.println(str);
 	}
 
 }
