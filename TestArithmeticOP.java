@@ -19,6 +19,8 @@ public class TestArithmeticOP {
 		//以下注意字串相加"+"
 		String s1 = "現在是上午";
 		int num3 = 10;
+		int num4 = 20;
+
 		String s2 = "點";
 		System.out.println(s1 + num3 + s2);
 		System.out.println(str);
